@@ -325,7 +325,7 @@ Is it actively used?
 
 - **Password Manager**: Bitwarden (free)
 - **Browser**: Firefox + uBlock Origin
-- **Email**: Proton with 2FA
+- **Email**: ProtonMail with 2FA
 - **VPN**: Proton or IVPN
 
 ### Level 2 (Enhanced)
