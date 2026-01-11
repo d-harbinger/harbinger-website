@@ -7,7 +7,7 @@ _A practical, weekend-by-weekend guide to reclaiming your digital privacy._
 ## Core Philosophy
 
 1. **Zero Data Loss** - Nobody loses access to anything important
-2. **Gradual Migration** - Run parallel systems before cutting over
+2. **Gradual Migration** - Run parallel systems before full migration
 3. **Reversibility** - Can backtrack if something goes wrong
 4. **One Weekend Per Project** - Each major section completed in a weekend
 
@@ -32,7 +32,7 @@ _A practical, weekend-by-weekend guide to reclaiming your digital privacy._
 
 ### Create Your Migration Notebook
 
-**Document these items (digital note or physical notebook):**
+**Document these items (Obsidian works great here):**
 
 ```markdown
 □ Current email address(es)
@@ -77,7 +77,7 @@ Optional Future: Linux/GrapheneOS exploration
 
 ### Why This Comes First
 
-- You'll generate dozens of new passwords during migration
+- You may generate dozens of new passwords during migration
 - Need secure storage before changing anything
 - Creates foundation for all other security improvements
 
@@ -173,8 +173,8 @@ Update these first (generate new passwords):
   - Security questions
   - Recovery codes
   - Software licenses
-□ Regular backups: Export vault monthly (encrypted)
-	*This obviously comes with its own risks and advantages. Make your best judgement on how you're using your password manager and where your data is being stored if this is a good use case for you.*
+□ Regular backups: Export vault monthly to encrypted ProtonDrive for cloud access
+	*This obviously comes with its own risks and advantages. Make your best judgement on how you're using your password manager and where your data is being stored if this is a good use case for you. You can also keep this on an encryped USB.*
 ```
 
 ---
@@ -188,7 +188,7 @@ Update these first (generate new passwords):
 
 ```markdown
 □ Start with Proton Free to test
-□ Consider Mail Plus ($3.99/month) for:
+□ Consider ProtonMail Plus ($3.99/month) for:
   - Custom email domain
   - More storage (15GB)
   - More addresses (10)
