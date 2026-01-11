@@ -326,7 +326,6 @@ Set Up Filters:
 Download and Install:
 □ Download from mozilla.org/firefox
 □ Install with default settings
-□ Sign in with Firefox account (temporary)
 □ Import bookmarks from Chrome
 
 Initial Configuration:
