@@ -232,9 +232,9 @@ Keep Gmail Active While Transitioning:
 □ This ensures you don't miss anything but everything in Gmail is deleted
 ```
 
-![[Pasted image 20251119143227.png]]
+![[see-all-settings.png]]
 
-![[Pasted image 20251119143314.png]]
+![[forwarding-pop-imap.png]]
 
 ### Step 4: Import Contacts
 
@@ -345,7 +345,7 @@ Privacy Extensions:
 □ Bitwarden - Password manager
 □ uBlock Origin - Ad/tracker blocking
 
-Below are optional, but remember that with each addition, you become more recognizable.
+Below are optional, but remember that with each addition, you become more 'recognizable'.
 
 □ Obsidian snipping tool - snip web pages for offline reading
 □ Privacy Badger - Additional tracking protection
@@ -407,7 +407,9 @@ Final Chrome Cleanup:
 
 ## PART 5: DOCUMENT/PHOTO LIBERATION
 
-**Time Required: 3-4 hours (varies by data amount)**
+**Time Required: 3-4 hours**
+
+This estimated time varies widely by data amount, obviously, but the intent here is to just get it into your local environment and away from cloud storage. You can then spend as much time organizing as you want after, but the main goal is to just reclaim your data.
 
 ### Step 1: Assess Your Google Storage
 
