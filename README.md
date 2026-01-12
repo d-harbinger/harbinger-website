@@ -6,6 +6,8 @@ A collection of privacy-focused configuration guides covering hardware, virtuali
 
 Visit the guides at: https://harbingersec.tech
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z010XFND)
+
 ## Built With
 
 - [Quartz v4](https://quartz.jzhao.xyz/) - Static site generator for Obsidian-style documentation
