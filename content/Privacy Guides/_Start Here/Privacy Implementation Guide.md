@@ -320,12 +320,13 @@ Set Up Filters:
 
 **Time Required: 2-3 hours**
 
-### Step 1: Firefox Installation & Setup
+### Step 1: Firefox/Brave Installation & Setup
 
 ```markdown
 Download and Install:
 □ Download from mozilla.org/firefox
-□ Install with default settings
+□ 
+□ Install with default settings then reference [[Browser Hardening]]
 □ Import bookmarks from Chrome
 
 Initial Configuration:

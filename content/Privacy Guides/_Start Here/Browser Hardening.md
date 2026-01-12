@@ -18,12 +18,15 @@
 
 > [!warning] **CRITICAL - Backup First** Before making ANY changes:
 > 
-> 1. Close Firefox completely
-> 2. Navigate to `about:support` → "Profile Folder" → "Open Folder"
+> Consider backing up bookmarks and keeping them in a location you can reference later if needed, your profile if you are interested (though I recommend not being signed in to any account that can be tracked)
+> 
+> 1. Navigate to `about:support` → "Profile Folder" → "Open Folder"
+> 2.  Close Firefox completely
 > 3. Copy entire profile folder to safe location
-> 4. Consider creating a NEW profile for hardened settings
+> -or-
+>  Consider not logging in at all
 
-### Initial Settings (GUI-Based)
+### Initial Settings
 
 #### 1. Disable Telemetry & Data Collection
 
@@ -84,7 +87,8 @@
 > **Options**:
 > 
 > - **Enable** if you trust Cloudflare/NextDNS more than your ISP
-> - **Disable** if you run your own DNS resolver (pi-hole, unbound, etc.)
+> - **Disable** if you run your own DNS resolver (pi-hole, unbound, Quad9 etc.)
+> 	- Or if you followed the [[AsusWRT-Merlin Hardened Router Install Guide]] you should have your own DNS resolution in place.
 
 To disable completely:
 
@@ -141,7 +145,7 @@ Rationale: Google Search = comprehensive tracking + ad profiling.
 > media.peerconnection.enabled = false
 > ```
 
-**Impact**: Disables WebRTC entirely. Breaks: video conferencing (Zoom, Meet, Jitsi), P2P file sharing.
+**Impact**: Disables WebRTC entirely. May break video conferencing (Zoom, Meet, Jitsi), P2P file sharing.
 
 **Alternative** (less restrictive):
 
@@ -213,7 +217,7 @@ extensions.pocket.enabled = false
 
 ---
 
-#### Disable Firefox Screenshots
+#### Disable Firefox Screenshots (Very optional)
 
 ```
 extensions.screenshots.disabled = true
@@ -234,26 +238,9 @@ browser.safebrowsing.downloads.enabled = false
 **Only disable if**:
 
 1. You use alternative security (DNS filtering, uBlock Origin lists)
-2. You understand the risk
+2. **You understand the risk**
 
----
-
-#### Performance Tweaks (Privacy-Adjacent)
-
-```
-# Disable disk cache (use RAM only)
-browser.cache.disk.enable = false
-browser.cache.memory.enable = true
-
-# Reduce session history storage
-browser.sessionstore.max_tabs_undo = 2
-browser.sessionstore.max_windows_undo = 1
-
-# Disable animations (reduces telemetry surface)
-toolkit.cosmeticAnimations.enabled = false
-```
-
-**Source**: Confirmed active in Firefox 136+ (Q1 2025).
+Here you can use both Google's malware/phishing database, and your own uBlock and DNS filtering. I would consider telemetry a lesser evil to truly malicious websites since we are hardening our identities and segmenting things in other ways to prevent try identity leaks.
 
 ---
 
@@ -287,7 +274,7 @@ less user.js
 # Restart Firefox
 ```
 
-**Source**: Arkenfox is community-maintained, audited, updated regularly. Gold standard for Firefox hardening.
+**Source**: Arkenfox is community-maintained, audited, updated regularly. Gold standard for Firefox hardening, but as always before curling or wgetting, double check your git and your code.
 
 ---
 
@@ -296,7 +283,7 @@ less user.js
 Test your browser fingerprint:
 
 > [!check] **Testing Sites**
-> 
+> - https://www.dnsleaktest.com/ (IVPN DNS check)
 > - https://coveryourtracks.eff.org (EFF's fingerprinting test)
 > - https://browserleaks.com (comprehensive leak tests)
 > - https://amiunique.org (fingerprinting uniqueness)
