@@ -506,7 +506,7 @@ Test Brave's privacy posture:
 
 ## Why Distrust Chrome
 
-> [!warning] **CRITICAL CONTEXT** Chrome is the **least privacy-respecting mainstream browser** due to Google's advertising business model. Key issues:
+> [!warning] **CRITICAL CONTEXT** Chrome is the **least privacy-respecting mainstream browser** due to Google's advertising business model.
 
 ---
 
