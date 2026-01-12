@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
-1. [Firefox Hardening]()
-2. [Brave Hardening]()
-3. [Why Distrust Chrome]()
+1. [[#Firefox Hardening]]
+2. [[#Brave Hardening]]
+3. [[#Why Distrust Chrome]]
 
 ---
 
@@ -293,7 +293,7 @@ Test your browser fingerprint:
 
 ## Brave Hardening
 
-> [!info] **Key Difference from Firefox** Brave is Chromium-based but heavily modified for privacy. Most protections are **enabled by default** - hardening focuses on **tuning** rather than enabling.
+> [!info] **Key Difference from Firefox** Brave is Chromium-based but heavily modified for privacy. Most protections are **enabled by default** - hardening focuses on fine tuning.
 
 ### Initial Assessment
 
@@ -316,7 +316,7 @@ Test your browser fingerprint:
 
 **Path**: `brave://settings/shields`
 
-> [!check] **Optimal Settings**
+> [!check] **Optimal Settings (Can break sites, so test your favorite sites to make sure you can still access everything)**
 > 
 > - [ ] **Trackers & ads blocking** → **Aggressive**
 > - [ ] **Upgrade connections to HTTPS** → **Enabled**
@@ -356,7 +356,7 @@ Test your browser fingerprint:
 > 
 > - [ ] Set default to **Brave Search** (independent index, no tracking)
 
-Alternative: DuckDuckGo, Startpage
+Alternative: DuckDuckGo, Startpage, Searx
 
 ---
 
