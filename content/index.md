@@ -10,7 +10,7 @@ Welcome to the Privacy Guides collection. These guides cover privacy-focused con
 > [!info] About These Guides
 > These are living documents, regularly updated as tools and best practices evolve. Each guide prioritizes practical implementation with security-first principles.
 
-## 📚 Guide Categories
+## Guide Categories
 
 ### Hardware
 
