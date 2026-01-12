@@ -50,7 +50,9 @@ Cross-platform privacy frameworks and implementation strategies.
 
 > [!tip] Contributing
 > If you have found any of these guides to be useful, please leave me a tip - 
+>
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z010XFND)
+>
 > Found an issue or have improvements? These guides are open source under CC BY-SA 4.0.
 
 ---
