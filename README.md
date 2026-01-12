@@ -2,28 +2,9 @@
 
 A collection of privacy-focused configuration guides covering hardware, virtualization, networking, and software security.
 
-## Guide Categories
-
-### Hardware
-- AsusWRT-Merlin Hardened Router Installation
-- GrapheneOS Install Guide
-
-### Virtualization
-- VirtualBox Linux Mint Setup Guide
-
-### WiFi & Networking
-- Linux WiFi Privacy Guide
-- macOS WiFi Privacy Guide
-- Windows WiFi Privacy Guide
-
-### General Privacy
-- Adaptive Privacy Framework - A Modular Approach
-- Browser Hardening
-- Privacy Implementation Guide
-
 ## Live Site
 
-Visit the guides at: [Your domain here once deployed]
+Visit the guides at: https://harbingersec.tech
 
 ## Built With
 
