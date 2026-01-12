@@ -44,7 +44,7 @@ Cross-platform privacy frameworks and implementation strategies.
 ---
 
 > [!warning] Disclaimer
-> These guides are provided for educational purposes. Always test configurations in a safe environment before deploying to production systems. The author assumes no liability for misconfigurations or unintended consequences.
+> These guides are provided for educational purposes. Always test configurations in a safe environment before deploying to production systems. The author assumes no liability for misconfigurations or unintended consequences. I am in no way associated or receive incentives from any of the hardware, software, or individuals referenced here. This is just my experience over time and what I have found to be the most useful setup that works for me. If you have any feedback or any notes on any of the documentation, please feel free to reach out to drew@harbingersec.tech.
 
 > [!tip] Contributing
 > Found an issue or have improvements? These guides are open source under CC BY-SA 4.0.
