@@ -46,9 +46,11 @@ Cross-platform privacy frameworks and implementation strategies.
 > [!warning] Disclaimer
 > These guides are provided for educational purposes. Always test configurations in a safe environment before deploying to production systems. The author assumes no liability for misconfigurations or unintended consequences. 
 
->I am in no way associated or receive incentives from any of the hardware, software, or individuals referenced here. These are my notes from my experience compiled with LLM as I have gathered them over time. I have found these to be the most useful setups that work for me. If you have any feedback or any notes on any of the documentation, please feel free to reach out to drew@harbingersec.tech. Thanks for reading :)
+>[!note]I am in no way associated or receive incentives from any of the hardware, software, or individuals referenced here. These are my notes from my experience compiled with LLM as I have gathered them over time. I have found these to be the most useful setups that work for me. If you have any feedback or any notes on any of the documentation, please feel free to reach out to drew@harbingersec.tech. Thanks for reading :)
 
 > [!tip] Contributing
+> If you have found any of these guides to be useful, please leave me a tip - 
+> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z010XFND)
 > Found an issue or have improvements? These guides are open source under CC BY-SA 4.0.
 
 ---
