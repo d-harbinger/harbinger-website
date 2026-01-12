@@ -8,9 +8,9 @@
 
 ## Table of Contents
 
-1. [Firefox Hardening](https://claude.ai/chat/cf2bbc5e-2e4d-4827-90f1-b0d9cf3d7d8a#firefox-hardening)
-2. [Brave Hardening](https://claude.ai/chat/cf2bbc5e-2e4d-4827-90f1-b0d9cf3d7d8a#brave-hardening)
-3. [Why Distrust Chrome](https://claude.ai/chat/cf2bbc5e-2e4d-4827-90f1-b0d9cf3d7d8a#why-distrust-chrome)
+1. [Firefox Hardening]()
+2. [Brave Hardening]()
+3. [Why Distrust Chrome]()
 
 ---
 
