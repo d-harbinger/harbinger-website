@@ -5,7 +5,7 @@ date:
 
 # Privacy Guides
 
-Welcome to the Privacy Guides collection. These guides cover privacy-focused configurations across hardware, virtualization, networking, and software.
+Welcome to the Harbinger Privacy Guides collection. These guides cover privacy-focused configurations across hardware, virtualization, networking, and software.
 
 > [!info] About These Guides
 > These are living documents, regularly updated as tools and best practices evolve. Each guide prioritizes practical implementation with security-first principles.
