@@ -1,5 +1,11 @@
 
-> [!info] Document Purpose Get your ASUS router running AsusWRT-Merlin firmware with secure defaults. **Time required:** 20-30 minutes **Skill level:** Basic familiarity with router admin panels
+> [!info] Document Purpose: 
+> 
+> Get your ASUS router running AsusWRT-Merlin firmware with secure defaults. 
+> 
+> **Time required:** 20-30 minutes 
+> 
+> **Skill level:** Beginner to Intermediate - there might be some complexity if you have never tried a firmware upgrade. If you have, this should be fairly straightforward.
 
 ---
 
