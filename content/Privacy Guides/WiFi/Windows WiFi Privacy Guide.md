@@ -1,3 +1,5 @@
+>[!warning] THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION - CONTINUE AT YOUR OWN RISK
+
 
 > [!info] Objective Prevent public WiFi routers from identifying your Windows device via hostname, MAC address, NetBIOS, LLMNR, and mDNS broadcasts.
 

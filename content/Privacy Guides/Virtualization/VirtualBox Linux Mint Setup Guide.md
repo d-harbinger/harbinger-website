@@ -1,3 +1,5 @@
+>[!warning] THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION - CONTINUE AT YOUR OWN RISK
+
 # VirtualBox Linux Mint Setup Guide
 
 ## Scope

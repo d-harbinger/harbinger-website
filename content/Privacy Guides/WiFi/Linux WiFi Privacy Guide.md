@@ -1,3 +1,5 @@
+>[!warning] THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION - CONTINUE AT YOUR OWN RISK
+
 
 > [!info] Objective Prevent public WiFi routers from identifying your device via hostname, MAC address, and mDNS broadcasts.
 

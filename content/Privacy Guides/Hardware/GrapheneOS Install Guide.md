@@ -1,3 +1,5 @@
+>[!warning] THIS GUIDE IS CURRENTLY UNDER CONSTRUCTION - CONTINUE AT YOUR OWN RISK
+
 # GrapheneOS Installation Guide: Best Buy to Boot
 
 **Last Verified:** January 2026  
